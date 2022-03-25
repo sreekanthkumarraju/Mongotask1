@@ -10,4 +10,4 @@
    
    show collection
    
-     ![image](https://user-images.githubusercontent.com/95994543/160067825-de76f6d8-cdbf-4446-be9e-28eafaec3e02.png)
+     ![image](https://user-images.githubusercontent.com/95994543/160068019-f078ee12-0c0d-4358-8d31-0107bf692a52.png)
