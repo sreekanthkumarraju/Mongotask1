@@ -7,3 +7,7 @@
    Creating a collection
    
    ![image](https://user-images.githubusercontent.com/95994543/160067653-cf7e0832-f6ed-45ea-8f22-bd9cf0a486ca.png)
+   
+   show collection
+   
+     ![image](https://user-images.githubusercontent.com/95994543/160067825-de76f6d8-cdbf-4446-be9e-28eafaec3e02.png)
