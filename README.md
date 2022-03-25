@@ -77,3 +77,6 @@ product-queries  :
 
   none with both product color:"indigo" and product price: 492.00
 
+10.Delete the products which product price value are same
+
+
