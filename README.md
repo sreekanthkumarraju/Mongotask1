@@ -56,3 +56,5 @@ product-queries  :
 6.Find the product with a row id of 10
 
 ![image](https://user-images.githubusercontent.com/95994543/160078684-548f41b1-e893-404d-8437-9488ea0f6633.png)
+
+![image](https://user-images.githubusercontent.com/95994543/160079002-c3511684-a2a2-415e-829c-9855152386c1.png)
