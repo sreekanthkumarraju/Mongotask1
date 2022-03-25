@@ -27,3 +27,4 @@ product-queries  :
 ![image](https://user-images.githubusercontent.com/95994543/160070340-2999bece-eced-42f8-ba7d-7b2a03a67ab4.png)
 ![image](https://user-images.githubusercontent.com/95994543/160070880-371940a4-4c65-47ba-ad94-36e67f72ca7d.png)
 ![image](https://user-images.githubusercontent.com/95994543/160071184-de111a2d-34d0-4977-ba83-852a681f5df3.png)
+![image](https://user-images.githubusercontent.com/95994543/160071379-a321bc87-acbb-4508-95cc-2f99ac38b72a.png)
