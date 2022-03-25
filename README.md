@@ -9,5 +9,4 @@
    ![image](https://user-images.githubusercontent.com/95994543/160067653-cf7e0832-f6ed-45ea-8f22-bd9cf0a486ca.png)
    
    show collection
-   
-     ![image](https://user-images.githubusercontent.com/95994543/160068019-f078ee12-0c0d-4358-8d31-0107bf692a52.png)
+   ![image](https://user-images.githubusercontent.com/95994543/160068188-390732eb-7620-4921-92b5-f62c383d9be2.png)
