@@ -1,4 +1,6 @@
 # Mongotask1
+   Click on the Image once to view clearly
+   ------------------------------------
 
    creating a Database
    ------------------
