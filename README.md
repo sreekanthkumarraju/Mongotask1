@@ -79,4 +79,9 @@ product-queries  :
 
 10.Delete the products which product price value are same
 
+  products with product_price:36
+  
+![image](https://user-images.githubusercontent.com/95994543/160084468-426becf7-6f3c-4e6c-9d18-75f61e2dad57.png)
+
+
 
