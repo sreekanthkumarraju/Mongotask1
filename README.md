@@ -58,3 +58,11 @@ product-queries  :
 ![image](https://user-images.githubusercontent.com/95994543/160078684-548f41b1-e893-404d-8437-9488ea0f6633.png)
 
 ![image](https://user-images.githubusercontent.com/95994543/160079002-c3511684-a2a2-415e-829c-9855152386c1.png)
+
+7.Find only the product name and product material
+
+![image](https://user-images.githubusercontent.com/95994543/160077996-a7274082-83e3-41e4-92ef-ea7689d6fa30.png)
+
+![image](https://user-images.githubusercontent.com/95994543/160078293-f6aa9dc8-00f3-4d89-883e-405979986e89.png)
+
+
