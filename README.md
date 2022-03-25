@@ -73,7 +73,7 @@ product-queries  :
 
 9.Find products which contain product color indigo  and product price 492.00
 
-
+![image](https://user-images.githubusercontent.com/95994543/160081607-16f0b99b-5523-4a83-af94-e5c1fcf3e84d.png)
 
 
 
