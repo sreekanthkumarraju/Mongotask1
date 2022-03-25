@@ -65,4 +65,8 @@ product-queries  :
 
 ![image](https://user-images.githubusercontent.com/95994543/160078293-f6aa9dc8-00f3-4d89-883e-405979986e89.png)
 
+8.Find all products which contain the value of soft in product material 
+
+![image](https://user-images.githubusercontent.com/95994543/160080494-45efe585-9e02-4aa3-b0df-d4633f393e7c.png)
+
 
