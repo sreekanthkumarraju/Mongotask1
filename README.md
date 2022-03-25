@@ -11,3 +11,7 @@
    show collection
    
    ![image](https://user-images.githubusercontent.com/95994543/160068188-390732eb-7620-4921-92b5-f62c383d9be2.png)
+
+  Inserting Data
+  
+  ![image](https://user-images.githubusercontent.com/95994543/160069160-741c4c8b-97f6-471b-80dc-b9439ccdeff6.png)
