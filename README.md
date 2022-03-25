@@ -105,7 +105,7 @@ product-queries  :
   
   ![image](https://user-images.githubusercontent.com/95994543/160085183-7f156259-cfab-49f0-b7de-f3baf3429633.png)
   
-  products with product_ids:17,20 will get deleted
+  products with product_ids:17,20 will get deleted(have same product price value this is 36)
   
   ![image](https://user-images.githubusercontent.com/95994543/160085250-b449d139-52ce-4b44-badc-9a9ff66bc74c.png)
   
