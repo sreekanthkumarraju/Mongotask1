@@ -23,5 +23,5 @@ product-queries  :
 
 1.Find all the information about each products
 
-![image](https://user-images.githubusercontent.com/95994543/160069796-80feb6ba-5bf2-453c-b4e0-6271d6a8da45.png)
+![image](https://user-images.githubusercontent.com/95994543/160070514-7def127f-857d-42b7-a0eb-ab03b4adabd8.png)
 ![image](https://user-images.githubusercontent.com/95994543/160070340-2999bece-eced-42f8-ba7d-7b2a03a67ab4.png)
