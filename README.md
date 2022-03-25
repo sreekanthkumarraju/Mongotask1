@@ -39,4 +39,8 @@ product-queries  :
 
 ![image](https://user-images.githubusercontent.com/95994543/160073280-04f11eb0-9dfb-4472-84a2-0bb93fe2e65e.png)
 
-![image](https://user-images.githubusercontent.com/95994543/160073607-15c5bc47-212e-4624-a766-b5cccdccbecf.png)
+![image](https://user-images.githubusercontent.com/95994543/160073607-15c5bc47-212e-4624-a766-b5cccdccbecf.p
+
+4.List the four product which are grater than 500 in price 
+
+
