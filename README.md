@@ -31,6 +31,8 @@ product-queries  :
 
 2.Find the product price which are between 400 to 800
 
+![image](https://user-images.githubusercontent.com/95994543/160073915-8e0da5c0-4cf7-439c-8b8d-c9d587908a94.png)
+
 ![image](https://user-images.githubusercontent.com/95994543/160072169-f670bf98-81dd-4d05-8c85-25fb75cc1b11.png)
 
 3.Find the product price which are not between 400 to 600
