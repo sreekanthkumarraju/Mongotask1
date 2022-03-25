@@ -18,3 +18,9 @@
   ![image](https://user-images.githubusercontent.com/95994543/160069291-28e05bd2-f05e-4008-a36a-a061a6e738cf.png)
   ![image](https://user-images.githubusercontent.com/95994543/160069405-ec6060d5-db09-4810-afae-0cbbd082e35a.png)
   ![image](https://user-images.githubusercontent.com/95994543/160069524-cff22d9e-d556-446c-b794-b80fd3720895.png)
+
+product-queries  :
+
+1.Find all the information about each products
+
+![image](https://user-images.githubusercontent.com/95994543/160069796-80feb6ba-5bf2-453c-b4e0-6271d6a8da45.png)
