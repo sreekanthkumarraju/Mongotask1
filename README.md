@@ -28,3 +28,7 @@ product-queries  :
 ![image](https://user-images.githubusercontent.com/95994543/160070880-371940a4-4c65-47ba-ad94-36e67f72ca7d.png)
 ![image](https://user-images.githubusercontent.com/95994543/160071184-de111a2d-34d0-4977-ba83-852a681f5df3.png)
 ![image](https://user-images.githubusercontent.com/95994543/160071379-a321bc87-acbb-4508-95cc-2f99ac38b72a.png)
+
+2.Find the product price which are between 400 to 800
+
+![image](https://user-images.githubusercontent.com/95994543/160072169-f670bf98-81dd-4d05-8c85-25fb75cc1b11.png)
